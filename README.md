@@ -1,6 +1,6 @@
-# cbfoto
+# vue-photographer-portfolio
 
-> A Vue.js project
+A simple SPA using VueJS framework, to shows photographer info and portfolio.
 
 ## Build Setup
 
