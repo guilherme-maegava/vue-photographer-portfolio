@@ -50,15 +50,15 @@
 <script>
 export default {
   data: () => ({
-      images: [
-          {src: '/static/img/img1.jpg', category: 'Evento'},
-          {src: '/static/img/img2.jpg', category: 'Comida'},
-          {src: '/static/img/img3.jpg', category: 'Ensaio'},
-          {src: '/static/img/img4.jpg', category: 'Ensaio'}
-      ],
-      categories: [
-          "Ensaio","Evento","New Born","Comida"
-      ]
+    images: [
+        {src: '/static/img/img1.jpg', category: 'Evento'},
+        {src: '/static/img/img2.jpg', category: 'Comida'},
+        {src: '/static/img/img3.jpg', category: 'Ensaio'},
+        {src: '/static/img/img4.jpg', category: 'Ensaio'}
+    ],
+    categories: [
+      'Ensaio', 'Evento', 'New Born', 'Comida'
+    ]
   })
 }
 </script>
